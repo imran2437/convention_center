@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.h{
+    height: 630px;
+}
+.m{
+    margin-bottom: 100px;
+}
+
+/* hot badge */
+.hot {
+    top: -15px;
+    right: 10px;
+}
+
+.toast-imran {
+    top: 50px;
+    translate: all 2s ease-in;
+}
